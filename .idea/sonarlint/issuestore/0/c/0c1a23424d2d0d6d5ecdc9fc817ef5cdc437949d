@@ -1,0 +1,55 @@
+
+V	java:S125s"<This block of commented-out lines of code should be removed.(ãÿŒ≠ˇˇˇˇˇ
+V	java:S125c"<This block of commented-out lines of code should be removed.(∏’Œò˛ˇˇˇˇ
+Q
+java:S1141—"5Extract this nested try block into a separate method.(°ª¢¸˘ˇˇˇˇ
+O	java:S106Í"9Replace this use of System.out or System.err by a logger.(©÷éÔ
+R	java:S125¡"<This block of commented-out lines of code should be removed.(ªıÉÔ
+\
+java:S2259⁄"@A "NullPointerException" could be thrown; "in" is nullable here.(Ä∂∫á˝ˇˇˇˇ
+?
+java:S1144‡"(Remove this unused private "ttt" method.(≥Œõ¿
+L
+java:S1481æ")Remove this unused "list" local variable.(§ ÌÖ˝ˇˇˇˇ8ôõŸ˝å/
+\
+java:S1128"?Remove this unused import 'com.testDrools.FacilityRelationDTO'.(¬øÌ÷8∂â˜•ç/
+P	java:S1258"<This block of commented-out lines of code should be removed.(¯Ï∆
+O
+java:S1128"-Remove this unused import 'java.util.Arrays'.(Óñò…¸ˇˇˇˇ8ôõŸ˝å/
+Q	java:S125x"<This block of commented-out lines of code should be removed.(ÕØ£ﬁ
+`
+java:S2583È"DChange this condition so that it does not always evaluate to "false"(Ë˜ò≈˘ˇˇˇˇ
+V	java:S125,"<This block of commented-out lines of code should be removed.(ÄçÌ∂ˇˇˇˇˇ
+W
+java:S1128"<Remove this unused import 'com.testDrools.PostalAddressDTO'.(≥Ãæø˙ˇˇˇˇ
+[
+java:S1854æ"8Remove this useless assignment to local variable "list".(§ ÌÖ˝ˇˇˇˇ8ôõŸ˝å/
+C
+java:S1481Ö"'Remove this unused "ss" local variable.(« ’é˙ˇˇˇˇ
+T	java:S106˛"9Replace this use of System.out or System.err by a logger.(§øÊæ˘ˇˇˇˇ
+F
+java:S1144‰"*Remove this unused private "test1" method.(≤‚Ö£ˇˇˇˇˇ
+W	java:S125Å"<This block of commented-out lines of code should be removed.(˝ñŸÇ˛ˇˇˇˇ
+U	java:S106∆"9Replace this use of System.out or System.err by a logger.(ë‹∏~8ËÃ˚•ç/
+W
+java:S1858˝"@"format" returns a string, there's no need to call "toString()".(û◊˙¥
+Q	java:S125™"<This block of commented-out lines of code should be removed.(éÅ˙	
+J
+java:S1481Ω"'Remove this unused "sp" local variable.(±óÖÉ˛ˇˇˇˇ8ôõŸ˝å/
+>
+java:S1144Å"'Remove this unused private "ts" method.(û‹£â
+R	java:S125Æ"<This block of commented-out lines of code should be removed.(öƒ¢Í
+F
+java:S2093Œ"*Change this "try" to a try-with-resources.(°ª¢¸˘ˇˇˇˇ
+V	java:S125="<This block of commented-out lines of code should be removed.(¢æÎƒ¯ˇˇˇˇ
+N	java:S106á"9Replace this use of System.out or System.err by a logger.(É⁄·B
+V	java:S125"<This block of commented-out lines of code should be removed.(„®«í˝ˇˇˇˇ
+V
+java:S1858Á"@"format" returns a string, there's no need to call "toString()".(¸œí[
+R
+java:S1854Ö"6Remove this useless assignment to local variable "ss".(« ’é˙ˇˇˇˇ
+N
+java:S1144ê"2Remove this unused private "getFpzgkpxeDm" method.(–Êõ¡¯ˇˇˇˇ
+g	java:S117ë"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ööùœ
+Y
+java:S1854Ω"6Remove this useless assignment to local variable "sp".(±óÖÉ˛ˇˇˇˇ8ôõŸ˝å/

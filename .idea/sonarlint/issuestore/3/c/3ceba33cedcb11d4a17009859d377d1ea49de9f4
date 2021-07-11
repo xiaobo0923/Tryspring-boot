@@ -1,0 +1,26 @@
+
+h	java:S100!"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(óœùÇüÿÿÿÿ
+W
+java:S1075""ARefactor your code to get this URI from a customizable parameter.(¨ö§
+N	java:S1060"9Replace this use of System.out or System.err by a logger.(ĞÒô
+Q	java:S1251"<This block of commented-out lines of code should be removed.(›‰ŒÆ
+V
+java:S1854\";Remove this useless assignment to local variable "zhxxMap".(²øŞ¸ıÿÿÿÿ
+R
+java:S1128"<Remove this unused import 'com.alibaba.fastjson.JSONObject'.(äıµ
+J
+java:S3740\"/Provide the parametrized type for this generic.(²øŞ¸ıÿÿÿÿ
+J
+java:S3740Z"/Provide the parametrized type for this generic.(ÕâŞşÿÿÿÿ
+z
+java:S11495"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(ì­ŠÜúÿÿÿÿ
+H
+java:S1611-"2Remove the parentheses around the "file" parameter(ßĞÉŒ
+S	java:S106X"9Replace this use of System.out or System.err by a logger.(–äĞ˜øÿÿÿÿ
+N	java:S106_"9Replace this use of System.out or System.err by a logger.(©ü¾©
+G
+java:S1481\",Remove this unused "zhxxMap" local variable.(²øŞ¸ıÿÿÿÿ
+S	java:S106&"9Replace this use of System.out or System.err by a logger.(ˆä±áøÿÿÿÿ
+Z
+java:S2147H"DCombine this catch with the one at line 70, which has the same body.(ï­£Ä
+V	java:S125>"<This block of commented-out lines of code should be removed.(”îÛŠûÿÿÿÿ

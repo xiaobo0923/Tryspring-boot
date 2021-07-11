@@ -1,0 +1,18 @@
+
+S	java:S106K"9Replace this use of System.out or System.err by a logger.(Ëª…ûÿÿÿÿ
+N	java:S106V"9Replace this use of System.out or System.err by a logger.(¡Îï¤
+<
+java:S1168B"&Return an empty array instead of null.(¥¹ï
+S	java:S106,"9Replace this use of System.out or System.err by a logger.(İ½œ‡úÿÿÿÿ
+Q	java:S125H"<This block of commented-out lines of code should be removed.(”ÅÃ²
+S	java:S106M"9Replace this use of System.out or System.err by a logger.(Ïøİ«ûÿÿÿÿ
+P	java:S125\"<This block of commented-out lines of code should be removed.(«ÙÌR
+A
+java:S1905>"+Remove this unnecessary cast to "String[]".(Ò°’Ì
+N	java:S106["9Replace this use of System.out or System.err by a logger.(·±©ÿ
+V	java:S125O"<This block of commented-out lines of code should be removed.(†ú‚¯ÿÿÿÿÿ
+f	java:S117&"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ŞØœ¢
+h	java:S1001"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(­Õäçüÿÿÿÿ
+t
+java:S22938"YReplace the type specification in this constructor call with the diamond operator ("<>").(çâîÀıÿÿÿÿ
+S	java:S106""9Replace this use of System.out or System.err by a logger.(İ½œ‡úÿÿÿÿ

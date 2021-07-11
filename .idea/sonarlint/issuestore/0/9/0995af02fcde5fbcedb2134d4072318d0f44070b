@@ -1,0 +1,60 @@
+
+j
+java:S3008"TRename this field "DELIM_SEP" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(äŒèÜ
+s
+java:S3008
+"XRename this field "DELIM_PERCENT" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Îõ°Åûÿÿÿÿ
+N
+java:S1444
+"3Make this "public static DELIM_PERCENT" field final(Îõ°Åûÿÿÿÿ
+E
+java:S1444"/Make this "public static DELIM_SEP" field final(äŒèÜ
+m	java:S127="XRefactor the code in order to not assign to this loop counter from within the loop body.(Æíí´
+t
+java:S1104
+"YMake DELIM_PERCENT a static final constant or non-public and provide accessors if needed.(Îõ°Åûÿÿÿÿ
+C
+java:S1444("-Make this "public static REP_SEP" field final(í¦–¹
+<
+java:S1068*"&Remove this unused "xx" private field.(‚¿²»
+L
+java:S1444"1Make this "public static DELIM_QUOTE" field final(†áÃåùÿÿÿÿ
+r
+java:S1104"WMake DELIM_QUOTE a static final constant or non-public and provide accessors if needed.(†áÃåùÿÿÿÿ
+q
+java:S3008"VRename this field "DELIM_QUOTE" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(†áÃåùÿÿÿÿ
+H
+java:S1444#"2Make this "public static REP_UNDERBAR" field final(¹ç×
+S	java:S1060"9Replace this use of System.out or System.err by a logger.(Öùõûÿÿÿÿ
+i
+java:S1104("SMake REP_SEP a static final constant or non-public and provide accessors if needed.(í¦–¹
+E
+java:S1444"/Make this "public static REP_QUOTE" field final(ÓËò¤
+j
+java:S3008"TRename this field "REP_QUOTE" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÓËò¤
+G
+java:S1444"1Make this "public static REP_PERCENT" field final(åŠ¯ë
+k
+java:S1104"UMake REP_QUOTE a static final constant or non-public and provide accessors if needed.(ÓËò¤
+z
+java:S1149:"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(˜Ýâœÿÿÿÿÿ
+m
+java:S1104"WMake REP_PERCENT a static final constant or non-public and provide accessors if needed.(åŠ¯ë
+n
+java:S1104#"XMake REP_UNDERBAR a static final constant or non-public and provide accessors if needed.(¹ç×
+k
+java:S1104"UMake DELIM_SEP a static final constant or non-public and provide accessors if needed.(äŒèÜ
+m
+java:S3008#"WRename this field "REP_UNDERBAR" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¹ç×
+h
+java:S3008("RRename this field "REP_SEP" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(í¦–¹
+o
+java:S3008"YRename this field "DELIM_UNDERBAR" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÂžáÖ
+p
+java:S1104"ZMake DELIM_UNDERBAR a static final constant or non-public and provide accessors if needed.(ÂžáÖ
+<
+java:S1481;"&Remove this unused "j" local variable.(”ðñ…
+l
+java:S3008"VRename this field "REP_PERCENT" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(åŠ¯ë
+J
+java:S1444"4Make this "public static DELIM_UNDERBAR" field final(ÂžáÖ

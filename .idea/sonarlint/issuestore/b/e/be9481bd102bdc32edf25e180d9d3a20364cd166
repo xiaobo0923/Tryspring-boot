@@ -1,0 +1,66 @@
+
+n	java:S116"TRename this field "first_col" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Â–ÇÍüÿÿÿÿ
+v	java:S116D"aRename this field "n_pri_wtn_prem_avg_d5d" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¤ñÇÓ
+w	java:S116."bRename this field "n_pri_ser_cost_rate_d7d" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ë»µ³
+~	java:S116V"dRename this field "n_pri_stard_prem_coe_m_hb" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¸°êëùÿÿÿÿ
+v	java:S1164"\Rename this field "n_wtn_prem_m_diff" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(€À‚¦üÿÿÿÿ
+y	java:S116T"_Rename this field "n_pri_mar_con_rate_m" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(”ãÇàüÿÿÿÿ
+T	java:S106†"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ
+w	java:S116,"bRename this field "n_pri_ser_cost_rate_d6d" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¤»î
+p
+java:S1104\"UMake DATE_STRS a static final constant or non-public and provide accessors if needed.(ˆ’½œøÿÿÿÿ
+J
+java:S1444\"/Make this "public static DATE_STRS" field final(ˆ’½œøÿÿÿÿ
+T	java:S106™"9Replace this use of System.out or System.err by a logger.(ö¢§Šüÿÿÿÿ
+v	java:S116<"aRename this field "n_pri_wtn_prem_avg_d1d" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(É™ˆ´
+|	java:S116J"bRename this field "n_pri_fg_expi_comp_rate" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(û¼‚ÿÿÿÿÿ
+O	java:S106Œ"9Replace this use of System.out or System.err by a logger.(ˆï¨ñ
+|	java:S116"bRename this field "n_pri_car_est_cost_rate" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ğúÔõúÿÿÿÿ
+v	java:S116F"aRename this field "n_pri_wtn_prem_avg_d6d" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Åı‹£
+|	java:S116"gRename this field "n_pri_car_est_cost_rate_diff" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(­ä…ú
+C
+java:S1481£",Remove this unused "anarrys" local variable.(Îö¸±
+B
+java:S3011‚",This accessibility update should be removed.(™êš}
+\
+java:S1128"ARemove this unused import 'org.apache.poi.ss.usermodel.Workbook'.(°ûâìÿÿÿÿÿ
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ï´Ğúÿÿÿÿ
+T	java:S106…"9Replace this use of System.out or System.err by a logger.(»¬¡öúÿÿÿÿ
+O	java:S106"9Replace this use of System.out or System.err by a logger.(Ôò™ë
+T	java:S106‡"9Replace this use of System.out or System.err by a logger.(Úú°Êûÿÿÿÿ
+|	java:S116&"bRename this field "n_pri_ser_cost_rate_d3d" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(£’êøÿÿÿÿ
+|	java:S116$"bRename this field "n_pri_ser_cost_rate_d2d" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(³÷²Ûıÿÿÿÿ
+F
+java:S1128"0Remove this unused import 'java.util.ArrayList'.(÷‰îƒ
+x	java:S116"cRename this field "n_pri_ser_cost_rate_m_hb" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(åÉßÂ
+	java:S116N"gRename this field "n_pri_fg_expi_comp_rate_diff" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÆÇÓşÿÿÿÿ
+v	java:S116R"bRename this field "n_pri_mar_con_rate_m_hb" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ãììI
+w	java:S116*"bRename this field "n_pri_ser_cost_rate_d5d" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(á¨
+O	java:S106”"9Replace this use of System.out or System.err by a logger.(’ÊÔæ
+z	java:S116:"`Rename this field "n_pri_wtn_prem_avg_7d" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(À®ª»ûÿÿÿÿ
+u	java:S1160"`Rename this field "n_pri_wtn_prem_y_diff" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¡ƒ€ì
+o
+java:S3008\"TRename this field "DATE_STRS" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ˆ’½œøÿÿÿÿ
+F
+java:S1128"+Remove this unused import 'java.util.List'.(Õë±Äøÿÿÿÿ
+z	java:S1162"`Rename this field "n_pri_wtn_prem_m_diff" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ö†ŸÔıÿÿÿÿ
+O	java:S106¡"9Replace this use of System.out or System.err by a logger.(Ì÷Ì½
+|	java:S116("bRename this field "n_pri_ser_cost_rate_d4d" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(üàíÑÿÿÿÿÿ
+|	java:S116""bRename this field "n_pri_ser_cost_rate_d1d" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(îâ”³ûÿÿÿÿ
+v	java:S116H"aRename this field "n_pri_wtn_prem_avg_d7d" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(™´ÀÈ
+z	java:S116P"`Rename this field "n_pri_exp_loss_rate_m" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(©ü¤úÿÿÿÿ
+{	java:S116X"aRename this field "n_pri_stard_prem_coe_m" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ìº†şÿÿÿÿ
+R
+java:S1854£";Remove this useless assignment to local variable "anarrys".(Îö¸±
+{	java:S116 "aRename this field "n_pri_ser_cost_rate_7d" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ìè„§üÿÿÿÿ
+v	java:S116B"aRename this field "n_pri_wtn_prem_avg_d4d" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(®Ñèä
+u	java:S116"`Rename this field "n_pri_ser_cost_rate_m" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(“Ê’Í
+|	java:S1166"bRename this field "n_pri_wtn_prem_avg_m_hb" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‡Ôîàûÿÿÿÿ
+{	java:S116>"aRename this field "n_pri_wtn_prem_avg_d2d" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(˜»º»üÿÿÿÿ
+8
+java:S2386\"Make this member "protected".(ˆ’½œøÿÿÿÿ
+{	java:S116@"aRename this field "n_pri_wtn_prem_avg_d3d" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(€Ñ‚Üøÿÿÿÿ
+t	java:S1168"_Rename this field "n_pri_wtn_prem_avg_m" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ß¬â’
+€	java:S116L"fRename this field "n_pri_fg_sale_ser_cost_rate" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(›é˜èùÿÿÿÿ
+U
+java:S1118Z":Add a private constructor to hide the implicit public one.(¸ìªÿÿÿÿÿ

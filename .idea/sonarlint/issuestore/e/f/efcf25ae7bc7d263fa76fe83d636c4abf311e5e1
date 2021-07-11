@@ -1,0 +1,10 @@
+
+5
+java:S2129#"Remove this "Float" constructor(ìØÿÜ
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ïº±øùÿÿÿÿ
+S	java:S106""9Replace this use of System.out or System.err by a logger.(ó«Ç†üÿÿÿÿ
+3
+java:S2153#"Remove the boxing to "Float".(ìØÿÜ
+W
+java:S1128"<Remove this unused import 'java.lang.annotation.Annotation'.(¦Ÿàáûÿÿÿÿ
+Q	java:S125$"<This block of commented-out lines of code should be removed.(ø·¨Ó

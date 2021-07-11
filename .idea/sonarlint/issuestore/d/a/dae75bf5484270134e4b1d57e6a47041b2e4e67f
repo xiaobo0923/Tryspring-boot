@@ -1,0 +1,10 @@
+
+V	java:S125."<This block of commented-out lines of code should be removed.(ô£¼æøÿÿÿÿ
+K
+java:S2696"6Make the enclosing method "static" or remove this set.(—Ç¬<
+>	java:S108$")Either remove or fill this block of code.(”ı¾
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¦½ª±
+D
+java:S1905#")Remove this unnecessary cast to "Object".(šÓ¢Æşÿÿÿÿ
+Z
+java:S2583-"DChange this condition so that it does not always evaluate to "false"(à‘èÁ

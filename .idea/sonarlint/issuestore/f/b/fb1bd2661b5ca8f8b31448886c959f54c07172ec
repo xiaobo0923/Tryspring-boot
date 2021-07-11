@@ -1,0 +1,81 @@
+
+N
+java:S16028",Remove useless curly braces around statement(ìı† øÿÿÿÿ8ÕÕÍÆ/
+^	java:S125¾"<This block of commented-out lines of code should be removed.(ôÑñˆüÿÿÿÿ8Œ¢’‘›/
+Y	java:S125¸"<This block of commented-out lines of code should be removed.(Î”÷Ã8ùí›™/
+a
+java:S1128"DRemove this unused import 'org.apache.commons.lang3.time.DateUtils'.(½ç8…¼ñà£/
+f	java:S117a"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÿ†É—
+R
+java:S1128"5Remove this unused import 'java.text.ParseException'.(ñ®ï•8ñ×¸í™/
+O	java:S106•"9Replace this use of System.out or System.err by a logger.(×÷¸Ú
+H
+java:S1612€",Replace this lambda with a method reference.(Ø•Èüÿÿÿÿ
+n
+java:S1602p"SRemove useless curly braces around statement and then remove useless return keyword(¥Î®ıÿÿÿÿ
+M
+java:S1611o"2Remove the parentheses around the "item" parameter(¶ıÄòıÿÿÿÿ
+b
+java:S1192!"GDefine a constant instead of duplicating this literal "123456" 5 times.(Œ¹ßÌøÿÿÿÿ
+V
+java:S1854d";Remove this useless assignment to local variable "Stream2".(¸š¸¿ùÿÿÿÿ
+L
+java:S2201™"0The return value of "minusMinutes" must be used.(µ¬ÃŠÿÿÿÿÿ
+B
+java:S1481a",Remove this unused "Stream1" local variable.(ÿ†É—
+M
+java:S1611p"2Remove the parentheses around the "item" parameter(¥Î®ıÿÿÿÿ
+M
+java:S16114"2Remove the parentheses around the "item" parameter(¶ıÄòıÿÿÿÿ
+U	java:S106¦"9Replace this use of System.out or System.err by a logger.(ƒ³ñF8²·Ò–/
+R
+java:S1128"0Remove this unused import 'com.testDrools.Info'.( ­èôüÿÿÿÿ8Îü»Ò–/
+V	java:S106š"9Replace this use of System.out or System.err by a logger.(à×´Ö8²·Ò–/
+N
+java:S1611€"2Remove the parentheses around the "item" parameter(Ø•Èüÿÿÿÿ
+Q
+java:S1854§":Remove this useless assignment to local variable "array2".(àÔè³
+k	java:S117d"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¸š¸¿ùÿÿÿÿ
+^	java:S125ã"<This block of commented-out lines of code should be removed.(½­ÄÓúÿÿÿÿ8Ÿ§ú›™/
+V	java:S106Ñ"9Replace this use of System.out or System.err by a logger.(â¾™Å8ƒÊ–‘›/
+Y	java:S125¼"<This block of commented-out lines of code should be removed.(Â¤¼ò8‰ù›™/
+R	java:S125’"<This block of commented-out lines of code should be removed.(‡™ì
+N	java:S106v"9Replace this use of System.out or System.err by a logger.(ì§©ˆ
+M
+java:S16116"2Remove the parentheses around the "item" parameter(ë÷÷ûÿÿÿÿ
+Y
+java:S1128"<Remove this unused import 'com.alibaba.fastjson.JSONObject'.(äıµ8²·Ò–/
+H
+java:S1602€",Remove useless curly braces around statement(Ø•Èüÿÿÿÿ
+O	java:S106"9Replace this use of System.out or System.err by a logger.(Òà´Ç
+R
+java:S1128"0Remove this unused import 'java.time.LocalTime'.(à®øÃùÿÿÿÿ8Á¾Æ/
+M
+java:S16118"2Remove the parentheses around the "name" parameter(ìı† øÿÿÿÿ
+G
+java:S1481d",Remove this unused "Stream2" local variable.(¸š¸¿ùÿÿÿÿ
+x
+java:S1128"VRemove this unused import 'com.sun.org.apache.xpath.internal.patterns.NodeTestFilter'.(®¾ËÄÿÿÿÿÿ8Á¾Æ/
+F
+java:S2201›"/The return value of "plusMinutes" must be used.(Š‹àø
+B
+java:S1481§"+Remove this unused "array2" local variable.(àÔè³
+R	java:S125–"<This block of commented-out lines of code should be removed.(’ÿè¡
+T	java:S106¡"9Replace this use of System.out or System.err by a logger.(ÅÃæ¢úÿÿÿÿ
+[
+java:S1197Ù"8Move the array designator from the variable to the type.(¥²¹†úÿÿÿÿ8Ÿ§ú›™/
+U	java:S1069"9Replace this use of System.out or System.err by a logger.(«‹Îõ8ÇêºÆ/
+V	java:S106‚"9Replace this use of System.out or System.err by a logger.(²¨ç÷8…¼ñà£/
+H
+java:S1611N"2Remove the parentheses around the "item" parameter(Ü¿â
+W
+java:S1191"5Use classes from the Java API instead of Sun classes.(®¾ËÄÿÿÿÿÿ8’ò¾Æ/
+Q
+java:S1854a";Remove this useless assignment to local variable "Stream1".(ÿ†É—
+S	java:S106F"9Replace this use of System.out or System.err by a logger.(„Øå«øÿÿÿÿ
+W
+java:S1128"5Remove this unused import 'com.testDrools.ResultDTO'.(°’øúÿÿÿÿ8Îü»Ò–/
+S	java:S106T"9Replace this use of System.out or System.err by a logger.(ã¿¢Ôùÿÿÿÿ
+O	java:S106œ"9Replace this use of System.out or System.err by a logger.(ä¯©°
+N
+java:S16128",Replace this lambda with a method reference.(ìı† øÿÿÿÿ8ÕÕÍÆ/

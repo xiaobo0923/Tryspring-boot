@@ -1,0 +1,9 @@
+
+l
+java:S1128	"QRemove this unused import 'org.springframework.web.bind.annotation.ResponseBody'.(•¶¶êøÿÿÿÿ
+<
+java:S1481!"&Remove this unused "u" local variable.(¨È©¦
+K
+java:S1854!"5Remove this useless assignment to local variable "u".(¨È©¦
+a
+java:S1128"FRemove this unused import 'org.springframework.stereotype.Controller'.(øŠ—Öùÿÿÿÿ
