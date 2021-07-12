@@ -15,14 +15,11 @@ public class MD5Util {
 		}
 		byte[] resultByte = messageDigest.digest(str.getBytes());
 
-		//------------
-		System.out.println("转之前："+Base64.encodeToString(resultByte));
-try {
-		String s = URLEncoder.encode(Base64.encodeToString(resultByte),"UTF-8");
-	System.out.println("zuihou ："+ s);
-}catch (Exception e){
-	e.printStackTrace();
-}
+		try {
+			String s = URLEncoder.encode(Base64.encodeToString(resultByte), "UTF-8");
+		} catch (Exception e) {
+			e.printStackTrace();
+		}
 
 		StringBuffer result = new StringBuffer();
 		for (int i = 0; i < resultByte.length; ++i) {
